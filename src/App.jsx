@@ -15,7 +15,7 @@ export default function Portfolio() {
         width: "100%",
         height: "100%",
         backgroundImage:
-          "url('https://images.unsplash.com/photo-1498050108023-c5249f4df085')",
+          "url('https://images.unsplash.com/photo-1503264116251-35a269479413')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
